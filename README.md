@@ -8,6 +8,8 @@ A template is the whole chart style, not just a palette: colours, title typeface
 badges, grid, line and marker weights, error bars, how violins and heatmaps are built, where the
 legend sits.
 
+![The eight templates, same data](journal-figure-themes/assets/overview.png)
+
 ![All palettes](journal-figure-themes/assets/theme_gallery.png)
 
 ## Templates
