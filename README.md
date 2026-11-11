@@ -8,30 +8,27 @@ A template is the whole chart style, not just a palette: colours, title typeface
 badges, grid, line and marker weights, error bars, how violins and heatmaps are built, where the
 legend sits.
 
-![The eight templates, same data](journal-figure-themes/assets/overview.png)
-
-![All palettes](journal-figure-themes/assets/theme_gallery.png)
+![The eight inspiration boards](inspiration/overview.jpg)
 
 ## Templates
 
-| Key | Inspired by | Look |
-|---|---|---|
-| `nature-lavender` | Nature | indigo, lavender, pink, teal; serif titles, multicolour badges, white-gapped heatmaps |
-| `nature-biomedical-engineering` | Nature Biomedical Engineering | ocean blues and teal; heavy lines, large markers, dashed cluster ellipses |
-| `nature-microbial` | Nature (microbiome cover) | warm pastels on cream; light grid, filled cluster ellipses |
-| `nature-dark` | Nature (dark cover) | vivid colours on dark navy; for slides and posters |
-| `nature-biomedchem` | Nature (Bio & Med Chem) | navy, cyan, purple, gold accent; fine lines, light grid |
-| `cell-metabolism` | Cell Metabolism | blue against orange; sans bold titles, light grid |
-| `nature-biotechnology` | Nature Biotechnology | teal, orange, purple; accent-bar labels, hollow markers, minimal |
-| `advanced-science` | Advanced Science | leaf green and lilac; quiet, thin lines |
+| Key | Inspired by | Look | Board |
+|---|---|---|---|
+| `nature-lavender` | Nature | indigo, lavender, pink, teal; serif titles, multicolour badges, white-gapped heatmaps | [view](inspiration/nature-lavender.jpg) |
+| `nature-biomedical-engineering` | Nature Biomedical Engineering | ocean blues and teal; heavy lines, large markers, dashed cluster ellipses | [view](inspiration/nature-biomedical-engineering.jpg) |
+| `nature-microbial` | Nature (microbiome cover) | warm pastels on cream; light grid, filled cluster ellipses | [view](inspiration/nature-microbial.jpg) |
+| `nature-dark` | Nature (dark cover) | vivid colours on dark navy; for slides and posters | [view](inspiration/nature-dark.jpg) |
+| `nature-biomedchem` | Nature (Bio & Med Chem) | navy, cyan, purple, gold accent; fine lines, light grid | [view](inspiration/nature-biomedchem.jpg) |
+| `cell-metabolism` | Cell Metabolism | blue against orange; sans bold titles, light grid | [view](inspiration/cell-metabolism.jpg) |
+| `nature-biotechnology` | Nature Biotechnology | teal, orange, purple; accent-bar labels, hollow markers, minimal | [view](inspiration/nature-biotechnology.jpg) |
+| `advanced-science` | Advanced Science | leaf green and lilac; quiet, thin lines | [view](inspiration/advanced-science.jpg) |
 
-The same data in three templates:
+The boards above are the colour-inspiration posters each template was derived from. They were not
+drawn by this skill. What the skill itself draws, same data in all eight templates:
 
-![Nature Biotechnology](journal-figure-themes/assets/previews/nature-biotechnology.png)
-![Cell Metabolism](journal-figure-themes/assets/previews/cell-metabolism.png)
-![Nature dark](journal-figure-themes/assets/previews/nature-dark.png)
+![Skill output in the eight templates](journal-figure-themes/assets/overview.png)
 
-Previews of all eight are in [`journal-figure-themes/assets/previews`](journal-figure-themes/assets/previews).
+Larger previews are in [`journal-figure-themes/assets/previews`](journal-figure-themes/assets/previews).
 
 ## Install
 
@@ -110,6 +107,13 @@ The templates are colour and style schemes inspired by journal cover art. They a
 style guides, and this project is not affiliated with or endorsed by Springer Nature, Cell Press,
 Wiley or any journal named here. Check each journal's author guidelines before submitting.
 
+## Credits
+
+The posters in [`inspiration/`](inspiration) were collected online and their author is unknown to
+the maintainer. They are shown for reference only, belong to their creator, and are not covered by
+this repository's licence. If you made them and want credit or removal, please open an issue.
+
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT for the skill, code and generated previews — see [LICENSE](LICENSE). The `inspiration/` folder
+is excluded.
