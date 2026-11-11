@@ -38,7 +38,7 @@ Previews of all eight are in [`journal-figure-themes/assets/previews`](journal-f
 **Claude Code** — copy the skill folder into your personal skills directory:
 
 ```bash
-git clone https://github.com/OWNER/journal-figure-themes.git
+git clone https://github.com/Sabir-OUSSAOUI/journal-figure-themes.git
 cp -r journal-figure-themes/journal-figure-themes ~/.claude/skills/
 ```
 
