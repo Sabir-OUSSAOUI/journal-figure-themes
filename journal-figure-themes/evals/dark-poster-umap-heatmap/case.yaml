@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: dark-poster-umap-heatmap
+expected_outcome: |
+  A two-panel poster figure on the dark Nature template: #0B1C24 background, light text, cyan letter badges, clusters in the template's vivid colours, gapped z-score heatmap with the template's diverging map centred on zero.

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: followup-figure-keeps-template
+expected_outcome: |
+  Figure 2 looks like it belongs with figure 1 without the user repeating the template: same colours per group even though one group is absent, same title/badge style, same text colour, same legend treatment.
+context:
+  scaffold_script: place-files.sh

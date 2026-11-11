@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: cell-metabolism-dose-response
+expected_outcome: |
+  A dose-response figure in the Cell Metabolism template: blue/orange drug curves, grey vehicle, navy text, light grid, sans bold title, saved as PNG and PDF with a script that runs on its own.

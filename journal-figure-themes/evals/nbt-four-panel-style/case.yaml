@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: nbt-four-panel-style
+expected_outcome: |
+  A four-panel figure in the Nature Biotechnology template: teal/orange palette with grey control, accent-bar panel labels with lower-case letters and serif titles, hollow markers, violins with line and median dot, thin donut, no grid.
