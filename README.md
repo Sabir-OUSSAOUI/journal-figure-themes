@@ -23,8 +23,9 @@ legend sits.
 | `nature-biotechnology` | Nature Biotechnology | teal, orange, purple; accent-bar labels, hollow markers, minimal | [view](inspiration/nature-biotechnology.jpg) |
 | `advanced-science` | Advanced Science | leaf green and lilac; quiet, thin lines | [view](inspiration/advanced-science.jpg) |
 
-The boards above are the colour-inspiration posters each template was derived from. They were not
-drawn by this skill. What the skill itself draws, same data in all eight templates:
+The boards above are colour-inspiration posters by
+[@ducklab2077](https://www.threads.com/@ducklab2077), from which each template was derived. They
+were not drawn by this skill. What the skill itself draws, same data in all eight templates:
 
 ![Skill output in the eight templates](journal-figure-themes/assets/overview.png)
 
@@ -109,9 +110,10 @@ Wiley or any journal named here. Check each journal's author guidelines before s
 
 ## Credits
 
-The posters in [`inspiration/`](inspiration) were collected online and their author is unknown to
-the maintainer. They are shown for reference only, belong to their creator, and are not covered by
-this repository's licence. If you made them and want credit or removal, please open an issue.
+The posters in [`inspiration/`](inspiration) are by [@ducklab2077](https://www.threads.com/@ducklab2077)
+on Threads. They are shown here for reference, with credit; they belong to their creator and are
+not covered by this repository's licence. If you are the author and want them changed or removed,
+please open an issue.
 
 ## License
 
